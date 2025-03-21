@@ -1,0 +1,26 @@
+/* style.css */
+body {
+  font-family: 'Times New Roman', Times, serif; /* Different font */
+  color: navy; /* Color */
+  margin: 0;
+  padding: 0;
+  background-color: lightblue; /* Background color */
+}
+
+.container {
+  padding: 20px;
+  border: 2px solid darkblue; /* Borders */
+  border-radius: 10px;
+}
+
+#special-image {
+  width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.important-text {
+  color: gold;
+  font-weight: bold;
+  font-size: 24px;
+}
